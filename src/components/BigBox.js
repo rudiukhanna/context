@@ -1,6 +1,8 @@
+import MiddleBox from "./MiddleBox";
+
 function BigBox() {
     return <>
-    <p>bigbox</p>
+    <MiddleBox />
     </>
 }
 
